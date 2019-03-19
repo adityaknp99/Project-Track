@@ -335,7 +335,7 @@ class pt
 			}
 			else 
 			{
-				System.out.println("YOU LOST"+c);
+				System.out.println("YOU LOST");
 				break;
 			}
 		}
